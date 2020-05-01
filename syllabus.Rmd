@@ -1,0 +1,282 @@
+---
+title: "Syllabus for Anthropology 4320"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout:
+    
+    latex_engine: xelatex
+  tufte::tufte_book:
+    
+    latex_engine: xelatex
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+```
+
+```{r libraries, echo = FALSE}
+library(tufte)
+library(tidytext)
+library(tidyverse)
+```
+
+# Welcome to Anthropology 4320: Human Evolution! 
+
+
+`r newthought('My name is Marc Kissel')` and I’m excited to work with all of you in this class over the next few months. The goal of this class is to teach us to think deeply on what it means to be human and how we became human.
+
+This class is designed to provide you with the tools & techniques necessary to evaluate, engage, and debate ideas of human history and behavior. Some concepts are complex and I encourage you to stop and think about them. And feel free to ask me at any time what the relevance to the class themes/objectives are.
+
+This class is a collaboration between all of us. You bring a unique and important perspective to the materials that I don’t have. Please share your voice and your thoughts with the class. I hope you actively participate in this course. It is one of the best ways to engage you in thinking about the material.
+
+I am committed to the principle of universal learning. This means that our classroom and interactions should be as inclusive as possible. Mutual respect, civility, and the ability to listen and observe others carefully are crucial to universal learning.
+
+# Accommodations
+
+`r newthought('we all need accommodations')` to help us learn. If there are aspects of this course that prevent you from learning or exclude you, please let me know as soon as possible and we’ll develop strategies to meet your needs. It is never too late to request accommodation in this class, but let me know as soon as possible.
+
+if you have any kind of disability, whether apparent or non-apparent, and you need accommodations or alternatives to lectures, assignments, or project, please feel free to contact me to discuss accommodations for your access needs. I welcome suggestions about the format of readings and class discussions that will help make this class accessible to all
+
+I also encourage you to visit the Office of Disability Services (828-262-3056 or http://ods.appstate.edu). If you need official accommodations, you have a right to have these met. **It is the floor, rather than the ceiling, of what you should expect.**  
+
+
+
+# People
+
+## Dr. Marc Kissel
+
+
+|         |                      |
+|---------|----------------------|
+| Office  | 349C Anne Belk Hall  |
+| Email   | kisselm@appstate.edu |
+| Twitter | @MarcKissel          |
+| Phone   | 828-262-6713         |
+
+
+
+
+I see my role in the class as to excite your understanding of anthropology, promote a critical learning environment, and craft an environment that helps students learn to ask questions.
+   
+
+
+# Course goals
+
+**I don't really think i should set the goals of the class, but it seems that i have to include this as part of a syllabus. So these are my goals. I will ask you all to come up with your own the first week of class**
+
+*  Learn how fossil evidence can be used to understand the lifeways of ancient peoples
+
+* Work together to create projects that allow us to better understand human origins
+
+
+```{marginfigure, echo= TRUE}
+
+What are **your** course goals? Think about what you would like to get out of this class
+```
+
+* Have epiphanies
+
+* sssss
+
+
+# Course Info
+
+## Title IX Protection 
+
+Gender discrimination, sexual violence, and relationship violence are counter to the values of AppState. I want to ensure every person is provided support, information, and resources to address any misconduct and prevent its recurrence.
+
+If you believe you are experiencing discrimination or any form of harassment including sexual harassment/misconduct/assault, I encourage you to report that behavior. However, please know that if you report to a faculty member such as myself or to most university employees, they must notify the Title IX Coordinator about the basic facts of the incident.
+
+## Course Materials
+
+
+There is no textbook for this class.
+```{marginfigure, echo= TRUE}
+
+But if you would like a recommendation for a textbook please let me know
+```
+
+However, there are a lot of assigned readings, all of which can be found on [AsULearn](https://asulearn.appstate.edu/). The readings for this class are not easy & might differ from what you are used to. If you have any trouble with the articles, bring them up in class. Chances are you are not the only one who is wondering the same thing!
+```{marginfigure, echo= TRUE}
+
+Jennifer Raff has written a good primer on reading science papers, which you can find [here](https://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/)
+```
+I choose these readings since I think they are interesting and relevant. I may not agree with all of them but I think they each have value. Most class days will start with having you think about the readings. If you haven't done the reading that is a great time to partner up with someone who has.
+
+
+
+"#dgst101: In this class, we’ll be dabbling with and researching many social media platforms. Whenever you blog, tweet, tumblr, facebook or instagram anything related to class, use the hashtag #dgst101 to contribute to our distributed conversation."
+
+
+## Attendance & late work
+
+If you need to miss a project for health reasons (physical or mental) I understand. We all have days when we feel overwhelmed.
+```{marginfigure, echo= TRUE}
+
+It helps to remember that we tend to compare our personal backstory to everyone else's highlight reel.
+```
+You do not need to tell me why you missed  but if something happens that affects your success in the class feel free to reach out to me if you want to discuss it. I also encourage you to turn in work even if it is late. 
+
+The short answer to how much you can miss is as much as you need and as few as you possibly can.
+
+If there is a death in the family or other event please know that you have my sympathies. I won't ask for proof (When I have had traumatic events no one ever asked me for proof ). Rather I will just let you know I am there for you. If you need help let the [Dean of Students](https://deanofstudents.appstate.edu/) know, as they can help in many ways. 
+
+I understand how difficult these times are. Living through a pandemic is not easy and I am already proud of how you are all doing. Please contact me as soon as possible and I will be happy to discuss the best way to makeup coursework
+
+
+## Student Hours
+
+These are times that you can come and chat about class topics of other issues of interest to you. If you feel lost or have any questions this is a great time to stop by. You can use this link SSSSSSSS to setup a time or just drop in. I'll be on Zoom from..
+
+```{marginfigure, echo= TRUE}
+
+Student Hours:
+  
+Tuesday & Thursday 10-12
+
+Wednesday: 10-11
+
+or by appt.
+use https://calendly.com/marckissel to setup a meeting
+```
+
+Or if you are interested in learning more about biological anthropology and related fields feel free to swing by. If you can’t meet me at the posted times send me an email and we can work something out.
+
+
+## Academic Integrity
+
+My general teaching philosophy is that I start by trusting students.
+```{marginfigure, echo= TRUE}
+
+For information on the universities policies  see the Academic Integrity website: (https://academicintegrity.appstate.edu/)
+```
+And I ask that you trust me.
+
+
+
+# Course policies 
+
+## Class content
+
+This course can involve the use of explicit language and examples of gender and race based violence, and other forms of abuse. Participating may remind you of experiences that you, a friend, or family member may have gone through. If you need support and/or would like to talk to someone about these issues please contact the Counseling Center by phone (828) 262-3180 of go to first floor of the Miles Annas Student Support Building, by the corner of College and Howard Streets. I’d be happy to assist you in accessing any help you need or talking in person.
+
+## Discrimination
+
+I am committed to promoting a campus climate that understands and respects the needs of a diverse student body. No discrimination of any kind will be tolerated. Please let me know as soon as possible if you feel that you have been treated unjustly.  I will listen to your concerns, evaluate the situation, and take appropriate action to address the problem.
+
+## Professionalism
+
+As partners in learning, we each have responsibilities for every class period. I will model expected behavior and refrain from inappropriate activities. Your professionalism may be maintained by refraining from inappropriate actions, including texting during discussions.
+
+## Food insecurity & basic needs
+
+If you have difficulty affording groceries or lack a safe and stable place to live I urge you to contact the Dean of Students.
+```{marginfigure, echo= TRUE}
+
+See https://sustain.appstate.edu/initiatives/food-pantry/ for more info
+```
+.
+
+## Diversity and inclusion
+
+Professional courtesy and sensitivity are especially important with respect to individuals and topics dealing with marginalized populations. I will gladly honor your request to address you by an alternate name or gender pronoun. Please advise me of this preference early in the semester so that I may make appropriate changes to my records and let me know if I fail to address you properly
+
+
+# Course Calendar
+
+## Tuesday, May 26
+
+**Read the following articles:**
+
+
+**Now**, 
+
+create a XXXXXX 
+join the class Slack
+
+
+## Wednesday, May 27
+
+**Read the following articles:**
+
+
+
+
+# Projects
+
+```{marginfigure, echo= TRUE}
+
+Please see the course handouts for details on these projects
+```
+## Reading response
+
+For each course reading answer the questions provided.
+```{marginfigure, echo= TRUE}
+
+You can find the questions for each article [here](https://marckissel.github.io/2020_Spring_Bioanth/course_reading_questions/Questions.html)
+```
+
+We will collect them at the end of the class and provide feedback. 
+
+## Labs & group work
+
+Working hands-on with course material to  build information, labs, infographics, etc to learn about BioAnth
+
+## Quizzes
+
+A handful of in-class quizzes used to assess learning 
+
+## Essay responses
+
+4 essay questions throughout the semester. Will be shared for peer-comments. Then pick one and resubmit based on comments
+
+
+
+## UnEssay
+
+You choose your own topic and present it how you please (written word, illustrations, music, video, etc.)
+
+
+## Personal Assessment
+
+Done 3 times during the semester. Will use self-guided form to see how you feel about your work in the class
+
+# Final assessment
+
+`r newthought('This course is about qualitative')` rather than quantitative assessment. In other words, we focus on learning rather than memorizing. You will get feedback (from both me and fellow students) throughout the semester but I won’t be putting a grade on any assignments. At the end of the class we will meet to talk about what you got out of the class. 
+
+You will be collaborating with peers on many of the assignments for this course. If you have questions about the various ways collaboration can work, feel free to chat with me at any point.
+
+
+
+## But what is my grade?
+who are trained to memorize facts, hold back what we really think, and avoid taking risks for fear that it will hurt our grade. Learning has been replaced by the ideas of 'achievement.' We thus value grades over true, real learning. This class is an experiment in actual learning. There are no tests planned.
+`r newthought('Sadly, most of us')` have been conditioned to be worker-learners 
+```{marginfigure, echo= TRUE}
+
+Based on student feedback we will have in-class quizzes that you can use to help assess your own learning. You can use these to help guide your work in the class
+```
+Rather I strive to avoid busy work and turn the classroom into a place of active learning, whether though lecturing, discussing, or reading. However, this does not mean there is no work. 
+
+`r newthought('At the end of the semester')`, you will tell me what grade you think you deserve in the class. You can use the labs, quizzes, reading prompts, and essays to help you assess your own learning. However, I reserve the right to be the final arbiter of your grade. 
+
+If at any time you are concerned about your progress please let me know and we will set up a time to talk.
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
+
+.
+

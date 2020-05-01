@@ -30,7 +30,10 @@ Hi! This is the draft version of our course website. Feel free to look around. M
 
 # Class materials (being added to daily!)
 
-[The text-based class syllabus!](https://marckissel.github.io/2020_Spring_Bioanth/syllabus.html)
+[The text-based class syllabus!](https://https://marckissel.github.io/Anthro_4320//syllabus.html)  NEEDS TO BE UPDATED
+
+
+
 ```{marginfigure, echo= TRUE, fig.width = 500, fig.height =200}
 
 ![](https://i1.wp.com/www.filthymonkeymen.com/wp-content/uploads/2013/07/chauvet-hands-e1531962042281.jpg) 
