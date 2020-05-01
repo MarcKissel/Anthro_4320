@@ -1,0 +1,45 @@
+---
+title: "Greetings"
+author: "Marc Kissel"
+date: "5/1/2020"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout:
+    citation_package: natbib
+    latex_engine: xelatex
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: xelatex
+bibliography: 
+link-citations: yes
+---
+
+```{r setup, include=FALSE, message = FALSE, warning=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+```
+
+
+## Welcome to the course page for Anthropology 4320
+
+![](https://external-preview.redd.it/eDjGHWjs_u0bNsc2dwrgfvRa182iKySAHAIImzay-C8.jpg?auto=webp&s=3f82f6647467e52c94c316fa418a6943614ce454)
+ 
+Hi! This is the draft version of our course website. Feel free to look around. Most of the class reading are on [AsULearn](https://asulearn.appstate.edu/) due to copyright issues but you can use this page to find all of the other files and assignments. I don't really like AsULearn for many things but we will use it for submitting projects etc. And anything posted here will be backed up to AsULearn.
+
+# Class materials (being added to daily!)
+
+[The text-based class syllabus!](https://marckissel.github.io/2020_Spring_Bioanth/syllabus.html)
+```{marginfigure, echo= TRUE, fig.width = 500, fig.height =200}
+
+![](https://i1.wp.com/www.filthymonkeymen.com/wp-content/uploads/2013/07/chauvet-hands-e1531962042281.jpg) 
+```
+
+
+[My personal website](https://marckissel.netlify.com/)
+
+[A short post on why I don't like grades](https://marckissel.netlify.com/post/going-gradeless/)
+
+
+
