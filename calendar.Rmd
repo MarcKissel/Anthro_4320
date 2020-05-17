@@ -22,9 +22,14 @@ library(tidyverse)
 
 # Welcome to Anthropology 4320: Human Evolution schedule! 
 
+
+
+```{marginfigure, echo= TRUE}
+
 **Now, Here's what i want you to do:**
 **Here's why I Want you to do it:**
 **Here's how to do it:**
+```
 
 
 
@@ -56,6 +61,7 @@ dates: 05/26-06/26
 Today we are going to get things setup for our online class!
 
 [Read this short blog post](https://beta.capeia.com/paleobiology/2019/09/28/braided-streams-evolutionary-dynamics-among-pleistocene-hominins-in-east-asia-and-the-evolution-of-homo-sapiens)
+[and this interview](https://gizmodo.com/this-philosopher-is-challenging-all-of-evolutionary-psy-1842248835)
 
 
 ### create an account on Perusall (make sure to use the class code KISSEL-6N6B8 when you sign up so you get access to our site ) 
@@ -107,20 +113,29 @@ Remember you can find all of these on https://app.perusall.com/courses/human-evo
 1. Write your first blog post based on the readings. One topic could be how your previous classes have dealt w/ the issues raised in the readings, examples of how this can be done better, or simply what you thought while reading the two papers. 
 
 
-
-***Please have this posted by Friday May 29 at 5:00 pm if possible***
-
+```{marginfigure, echo= TRUE}
 
 **Here's why I Want you to do it:**
 
-We want to begin to think about who gets to tell the story of human origins. As we all know, there is a lot of controversy about where we come from. But rather than center a debate about creationism (though you are free to explore that in your post!) I thought it would be interesting to see how recent work is pushing against the narrative in a different way 
+We want to begin to think about who gets to tell the story of human origins.
+As we all know, there is a lot of controversy about where we come from. But 
+rather than center a debate about creationism (though you are free to explore
+that in your post!) I thought it would be interesting to see how recent work 
+is pushing against the narrative in a different way 
 
 
-
-- Use the 3 papers (and any others you know of/can find) as a scaffold for the post. You don't have to reference them all and there is no set format for referencing
+**Here's how to do it**
+  
+- Use the 3 papers (and any others you know of/can find) as a scaffold for
+  the post. You don't have to reference them all and there is no set format
+  for referencing
 - Think about [adding visuals to your blog](https://oudigitools.blogspot.com/2020/05/images-in-posts.html)
 - make sure to add the tag #Ant4320 so we can find it!
 
+```
+
+
+***Please have this posted by Friday May 29 at 5:00 pm if possible***
 
 
 
@@ -263,11 +278,11 @@ Arid was published 11 years ago. Since then a lot has changed but we still don't
 
 
 **Here's how to do it:**
-As you read the article, take notes and ask questiosn (on Persuall might help for feedback!). GEt the larger picture of what is going on in the form and fucntion. if there is a bone, element, whatevr that you dont know google it or ask in the Slack.  
+As you read the article, take notes and ask questions (on Persuall might help for feedback!). Get the larger picture of what is going on in the form and fucntion. if there is a bone, element, whatevr that you dont know google it or ask in the Slack.  
 ```
 
 
-Prepare a blog post for *Thus June 11th* on the article you read. You should do your best to summarize the article as well as talk about its signifinac and what you learned. YOu could also go further and see what recent data exists that may update what we know
+Prepare a blog post for *Thus June 11th* on the article you read. You should do your best to summarize the article as well as talk about its signifinace and what you learned. YOu could also go further and see what recent data exists that may update what we know
 
 
 
@@ -280,9 +295,9 @@ Prepare a blog post for *Thus June 11th* on the article you read. You should do 
 
 **Read the following article:**
 
+
+Halie-Selassie et al 2015. Newspecies fromEthiopia further expands Middle Pliocene hominin diversity
 https://www.sciencenews.org/article/australopithecus-anamensis-skull-reveals-face-lucy-possible-ancestors
-Halie-Selassie et al 
-White et al 2006
 
 
 
@@ -291,9 +306,9 @@ White et al 2006
 
 **Now**, 
 
-continue work on blog post. incoperat, if possibel, info from these papers that link Arid to the first australopiths
+1. Continue work on the blog post from yesterday. Incorperate, if possible, information from these papers that link Arid to the first australopiths
 
-- Optional Zoom meeting: 
+2. Optional Zoom meeting: 
 
  If you can make it we will be up on Zoom to talk about the articles we have read from 1 PM - 2 PM. 
 
@@ -304,44 +319,60 @@ continue work on blog post. incoperat, if possibel, info from these papers that 
 
 **Read the following article:**
 
-Berger et al. 2013
-Kimble 2013
-Ward and Hammond 2016 Australopithecus and Kin.
+[Berger et al. 2010. Australopithecus sediba: A New Species of Homo-Like Australopith from South Africa](https://www.academia.edu/1586502/Australopithecus_sediba_A_New_Species_of_Homo-Like_Australopith_from_South_Africa)
+[Kimble 2013](Hesitation on hominin history)
 
 
 
 **Now**, 
 
-Work on your Sutoir post!
+1. Work on Sutori presentation
+
+2. Post thoughts/comments on Perusall
+
+
+
 
 ## Thursday, June 11 (day 11) early Homo
 
-**Read the following article:**
+**no assigned reading**
 
 
 
-new stuff 
-**Now**, 
-slack checkin
+1. Make a site with Sutori.....this site should be based on the fossil you are using for Aris. This way we cna hve it to link to.
+
+2. make sure to post your blog post on Ardi
 
 
 
+BOG POST DUE
 
-Make a site with Sutori.....this site should be based on the fossil you are using for Aris. This way we cna hve it to link to.
 
-make sure to post your blog post on Ardi
+
 ## Monday, June 15 (day 12)
 
-**Read the following article:** early homo, part 2
-add all the new early homo stuff from last few weeks
+**Read the following article:** Early Homo
+
+[Anton et al. 2014 Evolution of early Homo: An integrated biological perspective](https://science.sciencemag.org/content/345/6192/1236828)
+
+
+
 **Now**,
 
-## Tuesday, June 16 (day 13) break from reading
+
+
+
+## Tuesday, June 16 (day 13) 
 
 **Read the following article:**
+
+[Semaw el al 2020. Co-occurrence of Acheulian and Oldowan artifacts with Homo erectus cranial fossils from Gona, Afar, Ethiopia](https://advances.sciencemag.org/lens/advances/6/10/eaaw4694)
+[Herries et al. 2020 Contemporaneity of Australopithecus, Paranthropus, and early Homo erectus in South Africa](https://www.uj.ac.za/newandevents/Pages/Contemporaneity-of-Australopithecus,-Paranthropus,-and-early-Homo-erectus-in-South-Africa.aspx)
+
 **Now**, 
 
-blog
+
+
 
 ## Wednesay, June 17 (day 14) Homo erectus
 
@@ -350,6 +381,8 @@ blog
 
 ## Thursday, June 18 (day 15) Middle Plies
 **Read the following article:**
+
+ackerman
 **Now**, 
 
 
@@ -374,13 +407,20 @@ jump on and watch this
 
 **Read the following article:**
 
-Did our species evolve in subdivided populations across Africa, and why does it matter?
-https://s3.amazonaws.com/academia.edu.documents/59246893/GalwayStringerH.sapScience201820190514-60551-5lp1g2.pdf
+[Did our species evolve in subdivided populations across Africa, and why does it matter?](https://s3.amazonaws.com/academia.edu.documents/59246893/GalwayStringerH.sapScience201820190514-60551-5lp1g2.pdf)
+[Hublin et al. 2020 Initial Upper Palaeolithic Homo sapiens from Bacho Kiro Cave, Bulgaria](https://www.nature.com/articles/s41586-020-2259-z)
+
+
+
 **Now**, 
 
 ## Thursday, June 25 (day 19) Future
 
 **Read the following article:**
+
+[Killing the Behavioral Zombie: Genes, Evolution, and Why Behavior Isn’t Special(https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biaa042/5828241)
+[Expanding the evolutionary explanations for sex differences in the human skeleton](https://onlinelibrary.wiley.com/doi/epdf/10.1002/evan.21834)
+
 **Now**, 
 
 
