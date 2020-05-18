@@ -1,0 +1,68 @@
+
+---
+title: "Online game"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout:
+    
+    latex_engine: xelatex
+  tufte::tufte_book:
+    
+    latex_engine: xelatex
+---
+
+# making an interactive game
+
+The major group project for this course is to create a  location-based  game. We are going to use [Aris](https://fielddaylab.org/make/aris/) to make a sitatued docuemtnay game that teaches the player about the fossil record of human evolution. Everyone will choose a fossil/skeleton and research information on that. This info will be used to both create an interactive presentaion using [Sutori](https://www.sutori.com/)  and then used as part of the game info.
+
+
+## basic idea
+
+[here is a video that shows how students have used Aris to learn](https://www.youtube.com/watch?v=tt6rn5fVnN4&feature=emb_logo)
+
+
+Now, follow along below to learn to create and make a game:
+
+[and here is a video tutorial](https://fielddaylab.wisc.edu/courses/aris)
+
+[and the manual](https://manual.arisgames.org/)
+
+
+
+more info:
+https://casls.uoregon.edu/wp-content/uploads/sites/7/2018/07/ARIS_in_the_classroom.pdf
+
+
+## our game
+
+ibvsiouyl we can go to these places, but the game itself lets you pretend to visit. so, what i want to do is make a marker for the location the fossil comes from and then use that as a way to let players leran more about the site, fossil, etc. I haven't used this before so it might not work 100% but should be interesting to play aroud with even if it 'fails'
+
+
+## Optional: install software on your phone
+If you have a smart phone try to install the software (note: if you are like me and have an Android it is a bit harder. see if you can follow this but otherwise i'll work on giving a more detailed instrution. https://fielddaylab.wisc.edu/forums/viewtopic.php?f=13&t=169)
+
+
+## calendar
+
+
+- week 1 - setup and learn how to use it though tutorial. 
+
+at end of week I'll do a quick checkin and see what y'all think
+
+- week 2 - plan out and do rearch on your fossil. 
+
+use this time to resarhc background on the site and fossil. things to think about
+- location
+-age
+-species
+-ssssss
+
+- week 3- start to build it using the group Aris project (will get an invite!)
+
+- this will be a bit harder since the software isn't that easy to use. give yourself time and remember that it might take some practie. you should start y planning out the interactions etc
+
+- week 4- test and comment on other aspects
+
+- now, look at others. if you can lay the app on your phone do that and see waht happens. if you cant and can't borow someones phone then just click around and see waht needs to be fixed. 
+we can dviicee into teasm (testers and fixers). tesetes test out the sofrr and fixers see about fiixng thing like speeling issues etc. We will use our Slack to do thi
+

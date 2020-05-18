@@ -22,6 +22,7 @@ library(tidyverse)
 
 # Welcome to Anthropology 4320: Human Evolution schedule! 
 
+![Farside comic with caveman afraid he is going to have to spell "Australopithecus"](C:/Users/marck/Documents/Code/R_code/2020_Summer_Anthro_4320/img/australopith.jpg)
 
 
 ```{marginfigure, echo= TRUE}
@@ -36,21 +37,9 @@ library(tidyverse)
 # class projects
 
 
-
-## your blog
-
-## readings
-
-## your sutoiri site
-
-## our game
-
-## assessments
+https://www.youtube.com/watch?v=LXvcFxRhPZU Becky video really good
 
 
-
-## capstone?
- timeline?
 
 # Course Calendar
 
@@ -90,6 +79,18 @@ Today we are going to get things setup for our online class!
  **- When you have created your blog send me a link!**
 
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
 ## Wednesday, May 27 - Decolonizing Human Evolution (day 2)
@@ -98,44 +99,55 @@ Today we are going to get things setup for our online class!
 
 - [Athreya and Ackermann 2018 Colonialism Narratives Human Origins Asia Africa](https://osf.io/f43tr/)
 
-```{marginfigure, echo= TRUE}
-
-Remember you can find all of these on https://app.perusall.com/courses/human-evolution-3/_/dashboard/documents/document-36dzcicQpqSjF3J3h but if it is available online there is also a link
-```
-
 - [Dunsworth_2018_It is unethical to teach evolution without confronting racism and sexism](https://evolution-institute.org/it-is-unethical-to-teach-evolution-without-confronting-racism-and-sexism/) 
 - Sterling_2015_Black Feminist Theory in Prehistory
 
 
-
-**Now, Here's what i want you to do:**
-
-1. Write your first blog post based on the readings. One topic could be how your previous classes have dealt w/ the issues raised in the readings, examples of how this can be done better, or simply what you thought while reading the two papers. 
-
-
 ```{marginfigure, echo= TRUE}
+
 
 **Here's why I Want you to do it:**
 
-We want to begin to think about who gets to tell the story of human origins.
-As we all know, there is a lot of controversy about where we come from. But 
-rather than center a debate about creationism (though you are free to explore
-that in your post!) I thought it would be interesting to see how recent work 
+We want to begin to think about who gets to tell the story of human origins. As we all know, there is a lot of controversy about where we come from. But 
+rather than center a debate about creationism (though you are free to explore that in your post!) I thought it would be interesting to see how recent work 
 is pushing against the narrative in a different way 
 
 
-**Here's how to do it**
+**Here's how to do it:**
   
-- Use the 3 papers (and any others you know of/can find) as a scaffold for
+Use the 3 papers (and any others you know of/can find) as a scaffold for
   the post. You don't have to reference them all and there is no set format
   for referencing
-- Think about [adding visuals to your blog](https://oudigitools.blogspot.com/2020/05/images-in-posts.html)
-- make sure to add the tag #Ant4320 so we can find it!
-
+Think about [adding visuals to your blog](https://oudigitools.blogspot.com/2020/05/images-in-posts.html)
+make sure to add the tag #Ant4320 so we can find it!
 ```
+
+**Now, Here's what i want you to do:**
+
+1. Write your first blog post based on the readings. 
+
+One topic could be how your previous classes have dealt w/ the issues raised in the readings, examples of how this can be done better, or simply what you thought while reading the two papers. 
+
+
 
 
 ***Please have this posted by Friday May 29 at 5:00 pm if possible***
+
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 
 
@@ -145,37 +157,60 @@ is pushing against the narrative in a different way
 **Read the following articles:**
 
 - [Gould and Lewontin 1979 The Spandrels of San Marco and the Panglossian Paradigm-A Critique of the Adaptationist Programme](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.1979.0086)
-- [The selfish gene is a great meme. Too bad it’s so wrong](https://aeon.co/essays/the-selfish-gene-is-a-great-meme-too-bad-it-s-so-wrong)
 
+
+watch this video:
+[Species Concepts in Palaeoanthropology](https://www.youtube.com/watch?v=GWmtak1BGxo)
 
 **Now**
 
-- make annotations on these two articles on the Persuall site. You could ask for clairifaiton on these ideas or just explore your thoughts
+- make annotations on the  article on the Persuall site. You could ask for clairifaiton on these ideas or just explore your thoughts
 
 - Optional Zoom meeting: 
 
 If you can make it we will be up on Zoom and Slack to talk about the articles for this week at around 1 PM - 2 PM. let me know if you want to come and we can setup a link!
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## Weekend 
 
 1. Pick a fossil from the list online () and begin to learn about it. jot down notes etc
 2. Follow the directions [here to start with Aris...](need)
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ## Monday, June 1 - Primates (day 4)
-**Read the following article:**
+
+**Read the following articles:**
 
 Primate Cognition[https://www.nature.com/scitable/knowledge/library/primate-cognition-59751723/]
 
+[Early Hominins](http://explorations.americananthro.org/wp-content/uploads/2020/02/Chapter-9-Early-Hominins3.0.pdf)
 
 
-**Now, Here's what i want you to do:**
-
-Write your blog post based on answering the following question:
-
->
-> If humans came from chimps, why are there still chimps?
->
+```{marginfigure, echo= TRUE}
 
 
 **Here's why I Want you to do it:**
@@ -187,8 +222,31 @@ This is not a dumb question nor is it easy to answer. I want you to think about 
 
 Using your knoweldge from other classes, as well as any other sources, write a conversational response and share it on your blog. If you want, feel free to insert a video, gif, or image. You may want to look at examples of how to engage with the public and how to craft responses that are useful.
 
+```
 
-## Tuesday, June 2 - (day 5)
+**Now, Here's what i want you to do:**
+
+Write your blog post based on answering the following question:
+
+>
+> If humans came from chimps, why are there still chimps?
+>
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+## Tuesday, June 2 - (day 5): bipedalism
 
 **Read the following articles:**
 
@@ -196,22 +254,38 @@ Using your knoweldge from other classes, as well as any other sources, write a c
 [Lovejoy 1981-The origin of man](https://www.researchgate.net/publication/6092674_The_Origin_of_Man) 
 [Ward et al](https://www.ncbi.nlm.nih.gov/pubmed/31537304)
 
+**watch this video**
+
+[When We First Walked](https://www.youtube.com/watch?v=3bFtotU0of4)
+
 **Now**, 
 
-- Make comments on Persual on these papers. No set number of comments needed but engage at the level you feel is needed.
+- Make comments on Persual on these papers. No set number of comments needed but engage at the level you feel is needed. Feel free to use info from the videos or other readings to inform your post
 
-- Begin to create the Sutori site for your fossil. 
+- Work on the Sutori site for your fossil. 
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
 ## Wednesday, June 3 (day 6)
 
 **Read the following article:**
 
-Brunet et al - A new hominid from the Upper Miocene of Chad, Central Africa
-Pickford et al - Bipedalism in Orrorin tugenensis revealed by its femora
+[Brunet et al - A new hominid from the Upper Miocene of Chad, Central Africa](http://planet.botany.uwc.ac.za/nisl/research_methods/scientific_methods/pdf/chad_hominids.pdf)
+[Pickford et al - Bipedalism in Orrorin tugenensis revealed by its femora](https://www.sciencedirect.com/science/article/pii/S1631068302000283) (n.b: feel free to skip the French translation)
 
-
-**Now, here's what i want you to do** 
++++ if you want more info, this piece on the [Orroin femur could help](https://cashp.columbian.gwu.edu/sites/g/files/zaxdzs1746/f/downloads/2008-Richmond-Jungers.pdf)
 
 ```{marginfigure, echo= TRUE}
 
@@ -221,22 +295,33 @@ Tracing the fossil evidence is difficult and this literature is really hard to p
 
 
 **Here's how to do it:**
-look at one of the articles over the ast 2 days and notice what they are talking about in terms of functional aspects of bipdealism. For example, what about the femur of *Orroin* suggests it is a biped. If you need help [this site is full of awesome info](https://humanorigins.si.edu/human-characteristics/walking-upright) 
+look at one of the articles over the past 2 days and notice what they are talking about in terms of functional aspects of bipdealism. For example, what about the femur of *Orroin* suggests it is a biped. If you need help [this site is full of awesome info](https://humanorigins.si.edu/human-characteristics/walking-upright). Or you could decide to look at what make the foramen magnum relevant for bipedalism. If you need help, send me a message on Slack! 
 ```
 
+**Now, here's what i want you to do** 
 
-- Pick one aspect of the skeletal evidence of bipedalism and write a short blog post about it. Feel free to use Google if you need help
-
-
-
+- Pick one aspect of the skeletal evidence of bipedalism and write a short blog post about it. If you need more background check out the chapter on early hominins from Monday or do a web search. 
 
 
 
-## Thursday, June 4 (day 7)
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+## Thursday, June 4 (day 7): videos!
 
 
 
-Watch these lectures on early hominins 
+Watch these lectures on early hominins! 
 
 
 
@@ -246,28 +331,55 @@ Watch these lectures on early hominins
 
 we can jump on Slack to watch together at a certain time or watch them by yourself and comment on slack afterwards. THe readings from the previous class should help inform o these
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ## Weekend
 
-- Work on planning out your part of the game. You already have a fossil chosen so begin to find articles on it and read them
+- Work on planning out your part of the game. You already have a fossil chosen so begin to find articles on it and read them. If you have time, begin to put your Sutori site together
 
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## Monday, June  8 (day 8): Ardipithecus!
 
 
-watch this:
+**Watch this short video**:
+
+[The Analysis of Ardipithecus ramidus -- One of the Earliest Known Hominids](https://www.youtube.com/watch?v=EC9aIth1ah4&)
+
+
 
 **Read the following articles:**
 
-
-Pick one of the research articles below and read it in depth. 
-[links to articles](https://www.sciencemag.org/site/feature/misc/webfeat/ardipithecus/index.xhtml)
+[White et al. 2009 Ardipithecus ramidus and the Paleobiology of Early](https://science.sciencemag.org/content/326/5949/64)
 
 
 
 
 
-**Now, Here's what i want you to do:**
+
+
 
 
 ```{marginfigure, echo= TRUE}
@@ -282,27 +394,42 @@ As you read the article, take notes and ask questions (on Persuall might help fo
 ```
 
 
+**Now, Here's what i want you to do:**
+
+
+Pick one of the research articles below and read it in depth. 
+[links to articles](https://www.sciencemag.org/site/feature/misc/webfeat/ardipithecus/index.xhtml). 
+
 Prepare a blog post for *Thus June 11th* on the article you read. You should do your best to summarize the article as well as talk about its signifinace and what you learned. YOu could also go further and see what recent data exists that may update what we know
 
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## Tuesday, June 9 (day 9): Australopithecines!
 
 
-
-
-
-
 **Read the following article:**
 
+[Ward et al. 1999 The new hominid species Australopithecus anamensis](https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1520-6505(1999)7:6%3C197::AID-EVAN4%3E3.0.CO;2-T?casa_token=KoYvaznX7fwAAAAA:cU_dwFzG9U7oNHvQtboGt5QyINEk1qBYSIVbI7WutYq-_hSIojDh6fDbNoW_Li_eN7WVB37TyUV3tXr4)
 
-Halie-Selassie et al 2015. Newspecies fromEthiopia further expands Middle Pliocene hominin diversity
-https://www.sciencenews.org/article/australopithecus-anamensis-skull-reveals-face-lucy-possible-ancestors
+[Halie-Selassie et al 2015. A 3.8-million-year-old hominin cranium from Woranso-Mille, Ethiopia](https://www.nature.com/articles/s41586-019-1513-8
 
+[Here is a news article that summarisze this work](https://www.sciencenews.org/article/australopithecus-anamensis-skull-reveals-face-lucy-possible-ancestors)
 
+**Watch this video**
 
-![Farside comic with caveman afraid he is going to have to spell "Australopithecus"](C:/Users/marck/Documents/Code/R_code/2020_Summer_Anthro_4320/img/australopith.jpg)
-
+[Visiting the Taung Child at Wits University](https://www.youtube.com/watch?v=0mWOJ56_Et0)
 
 **Now**, 
 
@@ -312,7 +439,18 @@ https://www.sciencenews.org/article/australopithecus-anamensis-skull-reveals-fac
 
  If you can make it we will be up on Zoom to talk about the articles we have read from 1 PM - 2 PM. 
 
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
 ## Wednesday, June 10 (day 10) Australopiths continued
@@ -323,6 +461,9 @@ https://www.sciencenews.org/article/australopithecus-anamensis-skull-reveals-fac
 [Kimble 2013](Hesitation on hominin history)
 
 
+**then watch this video**
+
+[Thumb can tell if Paranthropus boisei made stone tools](https://www.youtube.com/watch?v=cEkpNbjUcfk)
 
 **Now**, 
 
@@ -331,22 +472,42 @@ https://www.sciencenews.org/article/australopithecus-anamensis-skull-reveals-fac
 2. Post thoughts/comments on Perusall
 
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-
-## Thursday, June 11 (day 11) early Homo
+## Thursday, June 11 (day 11) 
 
 **no assigned reading**
 
 
 
-1. Make a site with Sutori.....this site should be based on the fossil you are using for Aris. This way we cna hve it to link to.
+1. continue work on Sutori presentation.....this site should be based on the fossil you are using for Aris. This way we cna hve it to link to.
 
 2. make sure to post your blog post on Ardi
 
 
-
-BOG POST DUE
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
 ## Monday, June 15 (day 12)
@@ -357,62 +518,202 @@ BOG POST DUE
 
 
 
-**Now**,
+**Now, here's what I want you to do**,
+
+Post comments on the Anton paper on the Persuall site.
 
 
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## Tuesday, June 16 (day 13) 
 
-**Read the following article:**
+**Read the following articles:**
 
 [Semaw el al 2020. Co-occurrence of Acheulian and Oldowan artifacts with Homo erectus cranial fossils from Gona, Afar, Ethiopia](https://advances.sciencemag.org/lens/advances/6/10/eaaw4694)
+
 [Herries et al. 2020 Contemporaneity of Australopithecus, Paranthropus, and early Homo erectus in South Africa](https://www.uj.ac.za/newandevents/Pages/Contemporaneity-of-Australopithecus,-Paranthropus,-and-early-Homo-erectus-in-South-Africa.aspx)
+
+
+**then, watch this video**
+
+[One cave. Three hominin lineages. Australopithecus and Paranthropus meet Homo in Drimolen](https://www.youtube.com/watch?v=MOJrfa8Flus)
+
 
 **Now**, 
 
+Post comments on the  papers on the Persuall site. 
 
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## Wednesay, June 17 (day 14) Homo erectus
 
 **Read the following article:**
-**Now**, 
+
+[Anton et al. 2016 Morphological variation in Homo erectus and the origins of developmental plasticity](https://royalsocietypublishing.org/doi/10.1098/rstb.2015.0236)
+
+```{marginfigure, echo= TRUE}
+
+
+**Here's why I Want you to do it:**
+our knowlegde of early Homo is changing fast (as you can tell from the papers published in April!). I'm curious what we can find out as a group about the way we think about the origins of the genus *Homo*
+
+
+**Here's how to do it:**
+As you read the articles, take notes and ask questions (on Persuall might help for feedback!).  
+```
+
+**Now, here's what I want you to do**
+
+- Do a search to see what we know about the genus *Homo*  is changing. Using this info, write a quick blog post about how our knoweldge of early *Homo* is changing. for background, you may want to check out this chapter on [Early Members of the Genus Homo by  Bonnie Yoshida-Levine](http://explorations.americananthro.org/wp-content/uploads/2019/12/Chapter-10-Early-Members-of-the-Genus-Homo.pdf)
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 ## Thursday, June 18 (day 15) Middle Plies
 **Read the following article:**
 
-ackerman
+[Ackermann et al. 2015 The Hybrid Origin of ‘‘Modern’’ Humans](https://link.springer.com/article/10.1007/s11692-015-9348-1)
+
+
+[The muddle in the Middle Pleistocene](https://www.youtube.com/watch?v=C1SsIT6CLYo)
+
+[A new species of Homo from the Late Pleistocene of the Philippines](https://www.nature.com/articles/s41586-019-1067-9)
+
+
+
 **Now**, 
+- make sure your part of Aris is ready!
+
+- Optional Zoom meeting to talk about class projects and readings
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
 ## Monday, June 22 (day 16) Neandertals
 
 **Read the following article:**
 
-Hybridization in human evolution: Insights from other organisms
-**Now**,
+[Skov et al. 2020 The nature of Neanderthal introgression revealed by 27,566 Icelandic genomes](https://www.nature.com/articles/s41586-020-2225-9)
+[Taskent et al 2020. Analysis of Haplotypic Variation and Deletion Polymorphisms Point to Multiple Archaic Introgression Events, Including from Altai Neanderthal Lineage](https://www.genetics.org/content/genetics/early/2020/03/31/genetics.120.303167.full.pdf)
+
+**Now here's what I want you to do**,
+
+Write one last blog post. This one should focus on answering the following question:
+
+On a visit to D.C. (post-pandemic, of course), you happen to find yourself standing in an elevator next to congressional leaders taking a tour of the musuem you are in. They notice you are carrying some papers about human evolution and they ask you what they are about. With that opening, lay out your best four minute ‘elevator speech’ as to why the next federal budget should include additional funding for the study of human evolution
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## Tuesday, June 23 (day 17) Homo naledi doc
 
 **Read the following article:**
 
+[Berger et al 2017 Homo naledi and Pleistocene hominin evolution in subequatorial Africa](https://elifesciences.org/articles/24234)
 
 **Now**, 
 
-jump on and watch this
+We are going to watch this documentary together:
+https://www.youtube.com/watch?v=RzLJAa5X4Fo&t=2s
 
 
-## Wednesay, June 24 (day 18): MHO
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+## Wednesay, June 24 (day 18): Modern human origins
 
 **Read the following article:**
 
 [Did our species evolve in subdivided populations across Africa, and why does it matter?](https://s3.amazonaws.com/academia.edu.documents/59246893/GalwayStringerH.sapScience201820190514-60551-5lp1g2.pdf)
 [Hublin et al. 2020 Initial Upper Palaeolithic Homo sapiens from Bacho Kiro Cave, Bulgaria](https://www.nature.com/articles/s41586-020-2259-z)
 
+[Prehistoric human footprints reveal a rare snapshot of ancient human group behavior](https://theconversation.com/prehistoric-human-footprints-reveal-a-rare-snapshot-of-ancient-human-group-behavior-138502)
 
 
 **Now**, 
+
+
+
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## Thursday, June 25 (day 19) Future
 
@@ -423,46 +724,19 @@ jump on and watch this
 
 **Now**, 
 
+Zoom meeting
 
 ## Friday, June 26 (day 20)
 
 Last day!
 
-
+Test game
 
 
 # to add
 
-https://theconversation.com/prehistoric-human-footprints-reveal-a-rare-snapshot-of-ancient-human-group-behavior-138502
 
 # Projects
-
-
-getting Aris ready
-
-- Online game:
-
-https://fielddaylab.org/make/aris/
-
-
-check out the website above and play around with it. Setup an accont and, use the [manual to make a tutorial game](https://manual.arisgames.org/home).
-
-If you have a smart phone try to install the software (note: if you are like me and have an Android it is a bit harder. see if you can follow this but otherwise i'll work on giving a more detailed instrution. https://fielddaylab.wisc.edu/forums/viewtopic.php?f=13&t=169)
-
-
-other useful links:
-
-https://casls.uoregon.edu/wp-content/uploads/sites/7/2018/07/ARIS_in_the_classroom.pdf
-
-
-ONce we plan out we will start to build it. I'll nvite everyone to join my setup one(unless someoen wants to take chage). then in teasm you will build the part you asked to do
-
-More: we will work on this game in Slack etc. 
-
-- week 1 - setup and learn
-- week 2 - plan out and do rearch in groups for the diffeent fossils
-- week 3- start to build it
-- week 4- test and add
 
 
 

@@ -1,0 +1,45 @@
+
+---
+title: "Creating a blog"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout:
+    
+    latex_engine: xelatex
+  tufte::tufte_book:
+    
+    latex_engine: xelatex
+---
+
+
+# using a blog
+
+
+## Why?
+
+One thing that i learned from last semester is that the discussion boards didn't seem to work very well. They are somewhat old school anyway and don't really emmulate how modern disucssions go. plus, the idea that you need to do X number of posts and Y number of responses just seems to produce quantity rather than quality.
+
+Instead, we are going to try something different. Each of you will make a blog and use that to post notes, thoughts, reflections, etc (feel free to make it anonymous). My hope is that you will use this blog to not only respond to questions, but to reflect about class themes and ideas. I hope it would allow for a more critical, problem-posing learning. 
+
+
+While we are doing this in the open, i know that some might not want to have their name attached. THe 4th link here talks about how to be anonymous. If you would rather do that, that is totally fine. I'll have to know which blog is yours but I'll delete all info i have after class ends. You could even setup a seperate email account when you log into Blogger if you prefer (that is what i did when i had a blog in grad school that i have since forgoteen how to log into..)
+
+## *steps to create a blog* from Laura Gibbs 
+
+- [Starting a Blog: Your First Post](http://oudigitools.blogspot.com/2020/05/starting-blog-your-first-post.html)
+- [Blog URLs: Homepage and Posts](https://oudigitools.blogspot.com/2020/05/blog-urls-homepage-and-posts.html)
+- [Online Identity and Pseudonyms](https://oudigitools.blogspot.com/2020/05/online-identity-and-pseudonyms.html)
+- [Configuring Your Blog for Comments](https://oudigitools.blogspot.com/2020/05/configuring-your-blog-for-comments.html)
+- [Other Basic Blog Settings](https://oudigitools.blogspot.com/2020/05/other-basic-blog-settings.html)
+
+
+## posts
+
+In the course calendar you will find the times that i ask you to respond to writings and ideas. But you don't have to only post then. Use the blog however you see fit
+
+## dates
+
+While i am not going to be using firm due dates, a lot of students have said it helps them to have deadlines. 
+
+here are the dates for the major posts:
+

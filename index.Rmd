@@ -38,6 +38,11 @@ Hi! This is the draft version of our course website. Feel free to look around. M
 ![](https://i1.wp.com/www.filthymonkeymen.com/wp-content/uploads/2013/07/chauvet-hands-e1531962042281.jpg) 
 ```
 
+[The class schedule](https://marckissel.github.io/Anthro_4320/calendar.html)
+
+[The class projects](https://marckissel.github.io/Anthro_4320/projects.html)
+
+[Assessment](https://marckissel.github.io/Anthro_4320/assessment.html)
 
 [My personal website](https://marckissel.netlify.com/)
 
@@ -45,3 +50,20 @@ Hi! This is the draft version of our course website. Feel free to look around. M
 
 
 
+## your blog
+
+see here
+## readings
+
+## your sutoiri site
+
+see here
+## our game
+
+see here
+## assessments
+
+
+
+## capstone?
+ timeline?

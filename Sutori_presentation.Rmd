@@ -1,0 +1,38 @@
+
+---
+title: "Sutori presentation"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout:
+    
+    latex_engine: xelatex
+  tufte::tufte_book:
+    
+    latex_engine: xelatex
+---
+
+As part of the online game I want you to create a presentation on the fossil you have selected. This way, you can learn a lot about it and use the info to help make the game
+
+## Steps
+
+1. Sign up for Sutori
+
+> a. Go to https://www.sutori.com/signup and sign up for the site
+>
+> b. When the site asks “Before you get started, let us know who
+> you are for a more tailored experience” make sure to choose
+> 'student’
+>
+>  c. When the box pops up asking for a code put this code there:
+>   **twwk4**
+
+2. Learn to use Sutori
+
+> a. [This video is how I learned and it is pretty clear](https://www.sutori.com/story/beginner-s-guide-how-to-create-a-story--
+846BuKMUDUkFdgXsjW6Do62E):
+
+
+> b. [Also, check out this](https://www.sutori.com/story/student-tutorial--
+fDrqDhaMXxGZYn1EAoCux3m6)
+
+> c. If you have any questions just let me know. 

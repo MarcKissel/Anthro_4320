@@ -1,0 +1,34 @@
+---
+title: "projects"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout:
+    
+    latex_engine: xelatex
+  tufte::tufte_book:
+    
+    latex_engine: xelatex
+---
+
+# class projects
+
+## your blog 
+
+[see here](https://marckissel.github.io/Anthro_4320/blog_notes.html)
+
+## Readings and annotations
+
+## your sutoiri site
+
+[see here](https://marckissel.github.io/Anthro_4320/Sutori_presentation.html)
+
+## Our game
+
+
+[see here](https://marckissel.github.io/Anthro_4320/online_game_notes.html)
+
+
+
+
+## capstone?
+ timeline?

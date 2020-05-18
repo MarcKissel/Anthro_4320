@@ -1,0 +1,36 @@
+---
+title: "assessments"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout:
+    
+    latex_engine: xelatex
+  tufte::tufte_book:
+    
+    latex_engine: xelatex
+---
+
+
+
+
+`r newthought('This course is about qualitative')` rather than quantitative assessment. In other words, we focus on learning rather than memorizing. You will get feedback (from both me and fellow students) throughout the semester but I won’t be putting a grade on any assignments. At the end of the class we will talk about what you got out of the class. 
+
+You will be collaborating with peers on many of the assignments for this course. If you have questions about the various ways collaboration can work, feel free to chat with me at any point.
+
+
+
+## But what is my grade?
+who are trained to memorize facts, hold back what we really think, and avoid taking risks for fear that it will hurt our grade. Learning has been replaced by the ideas of 'achievement.' We thus value grades over true, real learning. This class is an experiment in actual learning. There are no tests planned.
+`r newthought('Sadly, most of us')` have been conditioned to be worker-learners 
+```{marginfigure, echo= TRUE}
+
+Twice in the semester i will send you a link that has 3-4 questions for you to answer about how you are doing in the class. 
+```
+Rather I strive to avoid busy work and turn the classroom into a place of active learning, whether though lecturing, discussing, or reading. However, this does not mean there is no work. 
+
+`r newthought('At the end of the semester')`, you will tell me what grade you think you deserve in the class. You can use the posts, sutori presentaion, the game, and your annotations to help you assess your own learning. However, I reserve the right to be the final arbiter of your grade. 
+
+If at any time you are concerned about your progress please let me know and we will set up a time to talk
+
+
+
