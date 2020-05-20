@@ -1,5 +1,5 @@
 ---
-title: "Syllabus for Anthropology 4320"
+title: "Course Calendar for Anthropology 4320"
 output:
   tufte::tufte_html: default
   tufte::tufte_handout:
@@ -22,21 +22,12 @@ library(tidyverse)
 
 # Welcome to Anthropology 4320: Human Evolution schedule! 
 
-dates: 05/26-06/26
+Dates: 05/26-06/26
 
-![](C:/Users/marck/Documents/Code/R_code/2020_Summer_Anthro_4320/img/australopith.jpg)
+#add calendar?
 
-
-
-```{marginfigure, echo= TRUE}
-
-**Now, Here's what i want you to do:**
-**Here's why I Want you to do it:**
-**Here's how to do it:**
-```
-
-
-
+<br />
+<br />
 
 
 
@@ -50,14 +41,15 @@ Today we are going to get things setup for our online class!
 [and this interview](https://gizmodo.com/this-philosopher-is-challenging-all-of-evolutionary-psy-1842248835)
 
 
-### Create an account on Perusall (make sure to use the class code KISSEL-6N6B8 when you sign up so you get access to our site ) 
+### Create an account on Perusall (make sure to use the class code sent via email when you sign up so you get access to our site ) 
 
-[more info here](https://marckissel.github.io/Anthro_4320/projects.html)
 
 ### Join the class Slack
 
-- See email from me with info 
-- post a Hello message. I'll be on Slack all day to help folks set things up
+- You will get an email from me with info on how to join!
+- you can use Slack on your phone or on a computer. I tend to use the phone but either works
+- post a Hello message in the say-hello channel to get a handle on how it works. I'll be on Slack all day to help folks set things up
+
 
 ### Create a blog
 
@@ -82,7 +74,7 @@ Today we are going to get things setup for our online class!
 
 # Wednesday, May 27 - Decolonizing Human Evolution (day 2)
 
-Today we are focusing on a issue that isn't always addressed but is of critical importance: Who gets to tell the story of human origins. All 3 of these papers discuss important aspects about how feminist and anti-racist scholars have re framed the discussions of human evolution. Athreya and Ackermann look at the role colonialism played in the founding of the discipline. Dunsworth asks us to think about how we teach these topics in class. And Sterling look as how Black feminist theory can address the
+Today we are focusing on a issue that isn't always addressed but is of critical importance: Who gets to tell the story of human origins. All 3 of these papers discuss important aspects about how feminist and anti-racist scholars have re-framed the discussions of human evolution. Athreya and Ackermann look at the role colonialism played in the founding of the discipline. Dunsworth asks us to think about how we teach these topics in class. And Sterling look as how Black feminist theory can address the
 sociopolitics of archaeological practice. 
 
 <br />
@@ -104,27 +96,19 @@ Note: All the readings are on AsULearn and Persuall. If i was able to find open 
 
 **Here's why I Want you to do it:**
 
-We want to begin to think about who gets to tell the story of human origins. As we all know, there is a lot of controversy about where we come from. But 
-rather than center a debate about creationism (though you are free to explore that in your post!) I thought it would be interesting to see how recent work 
-is pushing against the narrative in a different way 
+We want to begin to think about who gets to tell the story of human origins. As we all know, there is a lot of controversy about where we come from. But  rather than center a debate about creationism (though you are free to explore that in your post!) I thought it would be interesting to see how recent work  is pushing against the narrative in a different way 
 
 
 **Here's how to do it:**
   
-Use the 3 papers (and any others you know of/can find) as a scaffold for
-  the post. You don't have to reference them all and there is no set format
-  for referencing
+Use the 3 papers (and any others you know of/can find) as a scaffold for the post. You don't have to reference them all and there is no set format for referencing
 Think about [adding visuals to your blog](https://oudigitools.blogspot.com/2020/05/images-in-posts.html)
-make sure to add the tag #Ant4320 so we can find it!
+
 ```
 
-**Now, Here's what i want you to do:**
+**Now, Here's what I want you to do:**
 
-1. Write your first blog post based on the readings. 
-
-One topic could be how your previous classes have dealt w/ the issues raised in the readings, examples of how this can be done better, or simply what you thought while reading the two papers. 
-
-
+1. Write your first blog post based on the readings.  One topic could be how your previous classes have dealt w/ the issues raised in the readings; examples of how this can be done better; or simply what you thought while reading the papers. You could also use the readings as a jumping off point for disucssing other aspects of anthropology that intersect with these ideas 
 
 
 ***Please have this posted by Friday May 29 at 5:00 pm if possible***
@@ -150,7 +134,7 @@ One topic could be how your previous classes have dealt w/ the issues raised in 
 
 # Thursday, May 28 - Evolutionary theory (day 3)
 Today we want to think about what we know about evolutionary theory. There is only one reading but it is both fairly long and a classic of evolutionary thought. Think about what Gould & Lewontin are saying and how their framing the processes of evolution. To give some context, this paper has been cited over 8900 times! 
-The video than gives some context on how paleoanthropolgists see the species concept.
+The video then gives some context on how paleoanthropolgists see the species concept.
 
 <br />
 <br />
@@ -169,7 +153,7 @@ watch this video:
 
 - Optional Zoom meeting: 
 
-If you can make it we will be up on Zoom and Slack to talk about the articles for this week at around 1 PM - 2 PM. let me know if you want to come and we can setup a link!
+If you can make it we will jump on to Zoom and Slack to talk about the articles for this week (will post a poll for times). Let me know if you want to come and we can setup a Zoom link!
 
 <br />
 <br />
@@ -184,10 +168,10 @@ If you can make it we will be up on Zoom and Slack to talk about the articles fo
 <br />
 <br />
 
-## Weekend work 
+# Weekend work 
 
-1. Pick a fossil from the list online () and begin to learn about it. jot down notes etc
-2. Follow the directions [here to start with Aris...](https://marckissel.github.io/Anthro_4320/online_game_notes.html)
+1. Pick a fossil from the list online () and begin to learn about it. Jot down notes etc
+2. Follow the directions [here to start with Aris...](https://marckissel.github.io/Anthro_4320/online_game_notes.html) and work though the tutorial.
 
 <br />
 <br />
@@ -203,7 +187,8 @@ If you can make it we will be up on Zoom and Slack to talk about the articles fo
 <br />
 
 # Monday, June 1 - Primates (day 4)
-This class day is set to remind us what we learned in previous Bioanth classes! some background on primates and early hominin evolution. Feel free to skim the chpt on Early Hominins if you remember them! We will also start our first official blog post!
+
+This class day is set to remind us what we learned in previous Bioanth classes! Some background on primates and early hominin evolution. Feel free to skim the chpt on Early Hominins if you remember them!
 <br />
 <br />
 
@@ -224,7 +209,7 @@ This is not a dumb question nor is it easy to answer. I want you to think about 
 
 **Here's how to do it:**
 
-Using your knoweldge from other classes, as well as any other sources, write a conversational response and share it on your blog. If you want, feel free to insert a video, gif, or image. You may want to look at examples of how to engage with the public and how to craft responses that are useful.
+Using your knowledge from other classes, as well as any other sources, write a conversational response and share it on your blog. If you want, feel free to insert a video, gif, or image. You may want to look at examples of how to engage with the public and how to craft responses that are useful.
 
 ```
 
@@ -236,6 +221,7 @@ Write your blog post based on answering the following question:
 > If humans came from chimps, why are there still chimps?
 >
 
+***Please post this by Thursday, June 4th***
 
 <br />
 <br />
@@ -251,9 +237,10 @@ Write your blog post based on answering the following question:
 <br />
 
 # Tuesday, June 2 -  Bipedalism (day 5)
-Today we are focusing on bipedalism. Remember that one of the ways we define a hominin is by it walking upright on two legs. The piece by Lovejoy is sort of a classic in paleoanthropology. Remember that this doesn't mean it is correct. It has however generated a lot of discussion. The second piece is a bit long but it has a nice section that talks about different theories of the origins of bipedality, so make sure to at least look at the section on "Models of human bipedal acquisition"
 
-Use Persuall site to mark up and comment on what you read!
+Today we are focusing on bipedalism. Remember that one of the ways we define a hominin is by it walking upright on two legs. The piece by Lovejoy is sort of a classic in paleoanthropology.This doesn't mean it is correct. It has however generated a lot of discussion. The second piece is a bit long but it has a nice section that talks about different theories of the origins of bipedality, so make sure to at least look at the section on "Models of human bipedal acquisition"
+
+Use the Persuall site to mark up and comment on what you read!
 
 <br />
 <br />
@@ -261,20 +248,25 @@ Use Persuall site to mark up and comment on what you read!
 
 
 [Lovejoy 1981-The origin of man](https://www.researchgate.net/publication/6092674_The_Origin_of_Man) 
-[How did humans acquire erect bipedal walking](https://www.jstage.jst.go.jp/article/ase/127/1/127_190219/_pdf)
-ANTOHER ONE
+[Kimura_2019_How did humans acquire erect bipedal walking](https://www.jstage.jst.go.jp/article/ase/127/1/127_190219/_pdf)
 
-[Ward et al](https://www.ncbi.nlm.nih.gov/pubmed/31537304)
 
 **watch this video**
 
 [When We First Walked](https://www.youtube.com/watch?v=3bFtotU0of4)
 
+
+Read this if you want some more detailed info: [Ward et al 2019 A Late Miocene Hominid Partial Pelvis From Hungary](https://www.ncbi.nlm.nih.gov/pubmed/31537304)
+
+
+
 **Now**, 
 
 - Make comments on Persual on these papers. No set number of comments needed but engage at the level you feel is needed. Feel free to use info from the videos or other readings to inform your post
 
-- Work on the Sutori site for your fossil. 
+- Work on the Sutori site for your fossil. If you want comments send me a message and i will tak a look at it ASAP
+
+- Think about how you want your section of the Aris game to look. Plan it out on paper so you have a gameplan and share any concerns on the Slack channel
 
 <br />
 <br />
@@ -292,7 +284,7 @@ ANTOHER ONE
 
 # Wednesday, June 3 - The first hominins (day 6)
 
-One of the most contentious issues in human evolution is who the first hominid was.Today we are going to look at 2 plausible candidates, *Orrorin tugenensis* and *Sahelanthropus tchadensis*. These papers are very technical but they give a good understanding of what we know about the species. Feel free to explore more and see what else you can find
+One of the most contentious issues in human evolution is who the first hominid was. Today we are going to look at 2 plausible candidates, *Orrorin tugenensis* and *Sahelanthropus tchadensis*. These papers are very technical but they give a good understanding of what we know about the species. Feel free to explore more and see what else you can find
 <br />
 <br />
 if you want a refresher on these fossils here is a short post i wrote on each:
@@ -301,10 +293,12 @@ if you want a refresher on these fossils here is a short post i wrote on each:
 
 **Read the following article:**
 
-[Brunet et al - A new hominid from the Upper Miocene of Chad, Central Africa](http://planet.botany.uwc.ac.za/nisl/research_methods/scientific_methods/pdf/chad_hominids.pdf)
+[Brunet et al 2002 - A new hominid from the Upper Miocene of Chad, Central Africa](http://planet.botany.uwc.ac.za/nisl/research_methods/scientific_methods/pdf/chad_hominids.pdf)
 [Pickford et al - Bipedalism in Orrorin tugenensis revealed by its femora](https://www.sciencedirect.com/science/article/pii/S1631068302000283) (n.b: feel free to skip the French translation)
 
 +++ if you want more info, this piece on the [Orroin femur could help](https://cashp.columbian.gwu.edu/sites/g/files/zaxdzs1746/f/downloads/2008-Richmond-Jungers.pdf)
+
++++ and here is a fascinating [discussion of the femur of Sahelanthropus](https://www.nature.com/articles/d41586-018-00972-z)
 
 ```{marginfigure, echo= TRUE}
 
@@ -337,9 +331,10 @@ look at one of the articles over the past 2 days and notice what they are talkin
 <br />
 
 # Thursday, June 4 - Early hominin behavior  (day 7) 
+
 Taking a break from reading (yay!) we are going to watch some lectures from leaders in the field. The first, by Carol Ward, talks about early hominin body form. The second looks at the role scavenging and hunting played in human history. And the third asks about how aggression and warfare may have been important pressures in human origins. 
 
-we can jump on Slack to watch together at a certain time [will post time soon] or watch them by yourself and comment on slack afterwards. The readings from the previous class should help inform o these videos.
+we can jump on Slack to watch together at a certain time [will post time soon] or watch them by yourself and comment on slack afterwards. The readings from the previous class should help inform on these videos.
 
 <br />
 <br />
@@ -364,9 +359,9 @@ we can jump on Slack to watch together at a certain time [will post time soon] o
 <br />
 <br />
 
-## Weekend
+# Weekend
 
-- continue on planning out your part of the game. You already have a fossil chosen so begin to find articles on it and read them. If you have time, begin to put your Sutori site together
+- Continue on planning out your part of the game. You already have a fossil chosen so begin to find articles on it and read them. If you have time, finish your Sutori site 
 
 <br />
 <br />
@@ -408,11 +403,11 @@ The story about Ardipithecus is sort of almost mythical in human evolution. Toda
 
 
 **Here's why I Want you to do it:**
-Arid was published 11 years ago. Since then a lot has changed but we still don't know that much about this timer period. I want you to focus on one aspect of its anatomy. You can then 'follow' that part as we continue in out understanidng of human origins
+Arid was published 11 years ago. Since then a lot has changed but we still don't know that much about this time period. I want you to focus on one aspect of its anatomy. You can then 'follow' that part as we continue in our understanding of human origins
 
 
 **Here's how to do it:**
-As you read the article, take notes and ask questions (on Persuall might help for feedback!). Get the larger picture of what is going on in the form and function. if there is a bone, element, whatever that you don't know google it or ask in the Slack.  
+As you read the article, take notes and ask questions (on Persuall might help for feedback!). Get the larger picture of what is going on in the form and function. if there is a bone, element, whatever that you don't know look it up online or ask in the Slack.  
 ```
 
 
@@ -422,7 +417,7 @@ As you read the article, take notes and ask questions (on Persuall might help fo
 Pick one of the research articles below and read it in depth. 
 [links to articles](https://www.sciencemag.org/site/feature/misc/webfeat/ardipithecus/index.xhtml). 
 
-Prepare a blog post for *Thus June 11th* on the article you read. You should do your best to summarize the article as well as talk about its significance and what you learned. You could also go further and see what recent data exists that may update what we know
+Prepare a blog post for *Friday June 12th* on the article you read. You should do your best to summarize the article as well as talk about its significance and what you learned. You could also go further and see what recent data exists that may update what we know (note: you might not find anything new, in which case that is also something important to note)
 
 
 <br />
@@ -440,15 +435,13 @@ Prepare a blog post for *Thus June 11th* on the article you read. You should do 
 
 
 
-
-![](C:/Users/marck/Documents/Code/R_code/2020_Summer_Anthro_4320/img/australopith.jpg) 
 
 
 # Tuesday, June 9 - Australopithecus! (day 9)
 
-While traditionally known as "bipedal apes" Australopithecines are now seen in a different light. Some scholars think they even may have made and used stone tools! The piece by Ward and Hammond covers a lot of useful ground and is a good starting point. The Ward et al. 1999 is more technical and you can skim that if you wish. The Halie-Selassie et al. paper is a new article that talks about the face of anamensis (I also included a news article that covers the main points of that paper)
+While traditionally known as "bipedal apes" Australopithecines are now seen in a different light. Some scholars think they even may have made and used stone tools! The piece by Ward and Hammond covers a lot of useful ground and is a good starting point. The Ward et al. 1999 is more technical and you can skim that if you wish (but full of interesting stuff!). The Halie-Selassie et al. paper is a newer article that talks about the face of anamensis (I also included a news article that covers the main points of that paper)
 
-There is also an optional Zoom hangout today at 1(time may change!). stop by to chat about the class, the papers, or to see how my kids love to interrupt me while I'm working
+There is also an optional Zoom hangout today at 1 (time may change!). Stop by to chat about the class, the papers, or to see how my kids love to interrupt me while I'm working
 
 <br />
 <br />
@@ -472,7 +465,7 @@ There is also an optional Zoom hangout today at 1(time may change!). stop by to 
 
 2. Optional Zoom meeting: 
 
- If you can make it we will be up on Zoom to talk about the articles we have read from 1 PM - 2 PM. 
+
 
 <br />
 <br />
@@ -499,7 +492,7 @@ Since we can't cover all the info on Australopiths(i took a grad seminar that so
 [Berger et al. 2010. Australopithecus sediba: A New Species of Homo-Like Australopith from South Africa](https://www.academia.edu/1586502/Australopithecus_sediba_A_New_Species_of_Homo-Like_Australopith_from_South_Africa)
 [Kimble 2013](Hesitation on hominin history)
 
-If you want, check out some of the [papers in this special volume devoted to *Au. sediba*](http://www.paleoanthro.org/journal/volumes/2018/)
+If you want more information, check out some of the [papers in this special volume devoted to *Au. sediba*](http://www.paleoanthro.org/journal/volumes/2018/)
 
 **then watch this video**
 
@@ -507,7 +500,7 @@ If you want, check out some of the [papers in this special volume devoted to *Au
 
 **Now**, 
 
-1. Work on Sutori presentation
+1. Work on Aris game
 
 2. Post thoughts/comments on Perusall
 
@@ -527,8 +520,7 @@ If you want, check out some of the [papers in this special volume devoted to *Au
 
 # Thursday, June 11 - work catchup (day 11) 
 
-Today we are taking a break (phew!) and catching up on class projects. Work on all the things. I'll be on Zoom for most of the day if you want to chat!
-Make sure to post your blog post on Ardi
+Today we are taking a break (phew!) and catching up on class projects. Work on all the things. I'll be on Zoom for most of the day if you want to chat! 
 
 **no assigned reading**
 
@@ -548,9 +540,27 @@ Make sure to post your blog post on Ardi
 <br />
 
 
-## Monday, June 15 - Early Homo (day 12)
+# Weekend work 
 
-one thing we don't know well is when the genus *Homo* first evolved. The Anton et al paper is one of my favorite takes on this question and it covers a lot of ground. Make some annotations on it in Persuall or send a question to the group Slack if you are confused by something
+ADD
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+# Monday, June 15 - Early Homo (day 12)
+
+One thing we don't know well is when the genus *Homo* first evolved. The Anton et al paper is one of my favorite takes on this question and it covers a lot of ground. Make some annotations on it in Persuall or send a question to the group Slack if you are confused by something
+ 
 
 
 **Read the following article:** 
@@ -577,7 +587,7 @@ Post comments on the Anton paper on the Persuall site.
 <br />
 <br />
 
-## Tuesday, June 16 - Homo erectus (day 13) 
+# Tuesday, June 16 - Homo erectus (day 13) 
 
 Today we are looking at two papers that came out in April! I haven't had time to really think about them yet so excited to see what these papers have to say, but they have to do with the question of how many hominins were around at the same time
 
@@ -601,7 +611,7 @@ Bonus (in case you want to know more about Homo erectus:
 
 
 **Here's why I Want you to do it:**
-We don't know what this would have been like, but it seems clear that multple hominis were aroudn at the same time. How would we treat a different species in the same Family?
+We don't know what this would have been like, but it seems clear that multiple hominins were around at the same time. How would we treat a different species in the same Family today?
 
 
 **Here's how to do it:**
@@ -610,7 +620,7 @@ some other things to look at would be info on *Homo floresiensis*
 
 **Now, here's what I want you to do**
 
-- This is a different sort of blog post. Playing off the readings for today and your knowledge of anthropology i want you to think about what it would have been like for two hominin species to meet. you could do this as a sort of narrative piece, you could make up a story, etc. I don't have a set form in mind...
+- This is a different sort of blog post. Playing off the readings for today and your knowledge of anthropology I want you to think about what it would have been like for two hominin species to meet. Uou could do this as a sort of narrative piece, you could make up a story, etc. I don't have a set form in mind so take it in any direction you like.
 
 
 
@@ -631,18 +641,17 @@ some other things to look at would be info on *Homo floresiensis*
 
 # Wednesday, June 17 -  Middle Pleistocene (day 14)
 
-The Middle Pleistocene (sometimes called the Muddle in the Middle) is a confusing time period. Trying to cover it is even harder. I picked two articles here that i think might be interesting. The first, by Ackermann and colleagues, is a very important paper that talks about where our species comes from. The second one is also interesting and demonstrates some of the latest ideas coming out
+The Middle Pleistocene (sometimes called the *Muddle in the Middle*) is a confusing time period. Trying to cover it is even harder. I picked two articles here that I think might be interesting. The first, by Ackermann &  colleagues, is a very important paper that talks about where our species comes from. The second one is also interesting and demonstrates some of the latest ideas coming out. The third is a nice overview that just came out this week!
 
 [This textbook chapter by Paskey & Cisneros gives some great background if you are rusty on these species](http://explorations.americananthro.org/wp-content/uploads/2020/01/Chapter-11-Archaic-Homo-2.0.pdf)
 
 **Read the following:**
 
 [Ackermann et al. 2015 The Hybrid Origin of ‘‘Modern’’ Humans](https://link.springer.com/article/10.1007/s11692-015-9348-1)
-[Communicative capacities in Middle Pleistocene humans from the Sierra de Atapuerca in Spain](https://www.academia.edu/download/31250860/A016b-Martinez_et_al._Communicative_capacities-Author.pdf)
-                                                                                                        
-video
-[The muddle in the Middle Pleistocene](https://www.youtube.com/watch?v=C1SsIT6CLYo)
 
+[Communicative capacities in Middle Pleistocene humans from the Sierra de Atapuerca in Spain](https://www.researchgate.net/publication/8495575_Auditory_capacities_in_Middle_Pleistocene_humans_from_the_Sierra_de_Atapuerca_in_Spain/link/0912f50fa6157da75d000000/download) NEED
+                                                                                                        
+[When Did Homo Sapiens First Appear?](https://www.discovermagazine.com/planet-earth/when-did-homo-sapiens-first-appear)
 
 **Now**, 
 - make sure your part of Aris is ready!
@@ -664,7 +673,7 @@ video
 <br />
 
 
-## Thursday, June 18 - The First *Homo sapiens* (day 15)
+# Thursday, June 18 - The First *Homo sapiens* (day 15)
 
 Today we are looking at what it means to be in the species *Homo sapiens*. The two papers are a bit technical (though Stringer's is easier) but they cover a lot of ground. Think about how we define our species and what pushing back the date of the first appearance of our species means.
 
@@ -694,8 +703,25 @@ Please post by  Wednesday, June 24
 <br />
 <br />
 
+# Weekend work 
 
-## Monday, June 22  Neandertals - (day 16)
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+# Monday, June 22  Neandertals - (day 16)
+
+Our department teaches a whole class on Neandertals so it is of course hard to cover them in a day. I posted here two new papers on the Neandertal genome
 
 **Read the following article:**
 
@@ -717,7 +743,7 @@ Please post by  Wednesday, June 24
 <br />
 <br />
 
-## Tuesday, June 23  - New speices, new ideas (day 17) 
+# Tuesday, June 23  - New speices, new ideas (day 17) 
 
 In the last few years our knowledge of the fossil record of human evolution has greatly expanded. These 2 articles talk about newly proposed species. Read them carefully and think about how they are both changing the landscape of human origins
 
@@ -745,16 +771,15 @@ https://www.youtube.com/watch?v=RzLJAa5X4Fo&t=2s
 <br />
 <br />
 
-## Wednesday, June 24 - Modern human origins (day 18) 
+# Wednesday, June 24 - Modern human origins (day 18) 
 
-Ok, but why are *Homo sapiens* the only hominins left on the planet. This is another hot topic in paleoanthropology... 
+Ok, but why are *Homo sapiens* the only hominins left on the planet. This is another hot topic in paleoanthropology. The 
 
 **Read the following article:**
 
-[Did our species evolve in subdivided populations across Africa, and why does it matter?](https://s3.amazonaws.com/academia.edu.documents/59246893/GalwayStringerH.sapScience201820190514-60551-5lp1g2.pdf)
+[Scerri et al. 2018 Did our species evolve in subdivided populations across Africa, and why does it matter?](https://www.researchgate.net/publication/326408394_Did_Our_Species_Evolve_in_Subdivided_Populations_across_Africa_and_Why_Does_It_Matter)
 [Hublin et al. 2020 Initial Upper Palaeolithic Homo sapiens from Bacho Kiro Cave, Bulgaria](https://www.nature.com/articles/s41586-020-2259-z)
 
-[Prehistoric human footprints reveal a rare snapshot of ancient human group behavior](https://theconversation.com/prehistoric-human-footprints-reveal-a-rare-snapshot-of-ancient-human-group-behavior-138502)
 
 
 **Now**, 
@@ -776,20 +801,22 @@ Ok, but why are *Homo sapiens* the only hominins left on the planet. This is ano
 <br />
 <br />
 
-## Thursday, June 25 - Future (day 19) 
+# Thursday, June 25 - Future (day 19) 
 
 What does the future hold?
 
 **Read the following article:**
 
-[Killing the Behavioral Zombie: Genes, Evolution, and Why Behavior Isn’t Special(https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biaa042/5828241)
+[Prehistoric human footprints reveal a rare snapshot of ancient human group behavior](https://theconversation.com/prehistoric-human-footprints-reveal-a-rare-snapshot-of-ancient-human-group-behavior-138502)
+
+
 [Expanding the evolutionary explanations for sex differences in the human skeleton](https://onlinelibrary.wiley.com/doi/epdf/10.1002/evan.21834)
 
 **Now**, 
 
 Zoom meeting
 
-## Friday, June 26  - wrapup! (day 20)
+# Friday, June 26  - wrapup! (day 20)
 
 Last day!
 

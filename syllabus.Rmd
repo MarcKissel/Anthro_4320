@@ -23,11 +23,9 @@ library(tidyverse)
 # Welcome to Anthropology 4320: Human Evolution! 
 
 
-`r newthought('My name is Marc Kissel')` and I’m excited to work with all of you in this class over the next few months. The goal of this class is to teach us to think deeply on what it means to be human and how we became human.
+`r newthought('My name is Marc Kissel')` and I’m excited to work with all of you in this class over the next month. The goal of this class is to teach us to think deeply on what it means to be human and how we became human. We will learn the tools & techniques necessary to evaluate, engage, and debate ideas of human history and behavior. 
 
-This class is designed to provide you with the tools & techniques necessary to evaluate, engage, and debate ideas of human history and behavior. Some concepts are complex and I encourage you to stop and think about them. And feel free to ask me at any time what the relevance to the class themes/objectives are.
-
-This class is a collaboration between all of us. You bring a unique and important perspective to the materials that I don’t have. Please share your voice and your thoughts with the class. I hope you actively participate in this course. It is one of the best ways to engage you in thinking about the material.
+This class is a **collaboration** between all of us. You bring a unique and important perspective to the materials that I don’t have. Please share your voice and your thoughts with the class. I hope you actively participate in this course as best as you can while social distancing.
 
 I am committed to the principle of universal learning. This means that our classroom and interactions should be as inclusive as possible. Mutual respect, civility, and the ability to listen and observe others carefully are crucial to universal learning.
 
@@ -62,16 +60,16 @@ I see my role in the class as to excite your understanding of anthropology, prom
 
 # Course goals
 
-**I don't really think i should set the goals of the class, but it seems that i have to include this as part of a syllabus. So these are my goals. I will ask you all to come up with your own the first week of class**
+**I don't really think I should set the goals of the class, but it seems that I have to include this as part of a syllabus. So these are my goals. I  ask you all to come up with your own**
 
-*  Learn how fossil evidence can be used to understand the lifeways of ancient peoples
+* Learn how fossil evidence can be used to understand the lifeways of ancient peoples
 
 * Work together to create projects that allow us to better understand human origins
 
 
 ```{marginfigure, echo= TRUE}
 
-What are **your** course goals? Think about what you would like to get out of this class
+What are **your** course goals? Think about what you would like to get out of this class?
 ```
 
 * Have new insights into how we became human
@@ -107,9 +105,9 @@ The class readings can also be found on https://app.perusall.com/home. Sign up f
 Jennifer Raff has written a good primer on reading science papers, which you can find [here](https://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/)
 ```
 
-I choose these readings since I think they are interesting and relevant. I may not agree with all of them but I think they each have value. Most class days will start with having you think about the readings. If you haven't done the reading that is a great time to partner up with someone who has.
+I choose these readings since I think they are interesting and relevant. I may not agree with all of them but I think they each have value. 
 
-Whenyou blog, tweet, or instagram anything related to class, use the hashtag #ant4320 to make sure we see the conversation.
+Whenever you blog or tweet about anything related to class, use the hashtag #ant4320 to make sure we see the conversation!
 
 
 ## Attendance & late work
@@ -119,7 +117,7 @@ If you need to miss a project for health reasons (physical or mental) I understa
 
 It helps to remember that we tend to compare our personal backstory to everyone else's highlight reel.
 ```
-You do not need to tell me why you missed  but if something happens that affects your success in the class feel free to reach out to me if you want to discuss it. I also encourage you to turn in work even if it is late. 
+You do not need to tell me why you missed  but if something happens that affects your success in the class feel free to reach out to me if you want to discuss it. 
 
 I understand how difficult these times are. Living through a pandemic is not easy and I am already proud of how you are all doing. Please contact me as soon as possible and I will be happy to discuss the best way to makeup coursework
 
@@ -128,21 +126,20 @@ If there is a death in the family or other event please know that you have my sy
 
 ## Student Hours
 
-These are times that you can come and chat about class topics of other issues of interest to you. If you feel lost or have any questions this is a great time to stop by. You can use this link SSSSSSSS to setup a time or just drop in. I'll be on Zoom from..
+These are times that you can come and chat about class topics of other issues of interest to you. If you feel lost or have any questions this is a great time to stop by. You can use this link  to setup a time or just drop in: [Meet with me](https://calendly.com/marckissel/advising-meeting)
+
+
 
 ```{marginfigure, echo= TRUE}
 
 Student Hours:
-  
-Tuesday & Thursday 10-12
-
-Wednesday: 10-11
-
+Monday to Friday: 9:00 am - 3:00 PM  
 or by appt.
-use https://calendly.com/marckissel to setup a meeting
+
+use https://calendly.com/marckissel/advising-meetingto setup a meeting
 ```
 
-Or if you are interested in learning more about biological anthropology and related fields feel free to swing by. If you can’t meet me at the posted times send me an email and we can work something out.
+If you can’t meet me at the posted times send me an email and we can work something out.
 
 
 ## Academic Integrity
@@ -158,17 +155,10 @@ And I ask that you trust me.
 
 # Course policies 
 
-## Class content
-
-This course can involve the use of explicit language and examples of gender and race based violence, and other forms of abuse. Participating may remind you of experiences that you, a friend, or family member may have gone through. If you need support and/or would like to talk to someone about these issues please contact the Counseling Center by phone (828) 262-3180 of go to first floor of the Miles Annas Student Support Building, by the corner of College and Howard Streets. I’d be happy to assist you in accessing any help you need or talking in person.
 
 ## Discrimination
 
 I am committed to promoting a campus climate that understands and respects the needs of a diverse student body. No discrimination of any kind will be tolerated. Please let me know as soon as possible if you feel that you have been treated unjustly.  I will listen to your concerns, evaluate the situation, and take appropriate action to address the problem.
-
-## Professionalism
-
-As partners in learning, we each have responsibilities for every class period. I will model expected behavior and refrain from inappropriate activities. Your professionalism may be maintained by refraining from inappropriate actions, including texting during discussions.
 
 ## Food insecurity & basic needs
 
@@ -183,7 +173,6 @@ Professional courtesy and sensitivity are especially important with respect to i
 
 # Assessment 
 
-
 THIS COURSE IS ABOUT QUALITATIVE rather than quantitative assessment. In other words, we focus on learning rather than memorizing. You will get feedback (from both me and fellow students) throughout the semester but I won’t be putting a grade on any assignments. At the end of the class we will talk about what you got out of the class. 
 
 You will be collaborating with peers on many of the assignments for this course. If you have questions about the various ways collaboration can work, feel free to chat with me at any point.
@@ -191,9 +180,9 @@ You will be collaborating with peers on many of the assignments for this course.
 
 
 ## But what is my grade?
-who are trained to memorize facts, hold back what we really think, and avoid taking risks for fear that it will hurt our grade. Learning has been replaced by the ideas of 'achievement.' We thus value grades over true, real learning. This class is an experiment in actual learning. 
 
-There are no tests planned.
+We are trained to memorize facts, hold back what we really think, and avoid taking risks for fear that it will hurt our grade. Learning has been replaced by the ideas of 'achievement.' We thus value grades over true, real learning. This class is an experiment in actual learning. 
+
 ```{marginfigure, echo= TRUE}
 
 Twice in the semester i will send you a link that has 3-4 questions for you to answer about how you are doing in the class. 
