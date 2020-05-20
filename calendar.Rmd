@@ -20,11 +20,53 @@ library(tidytext)
 library(tidyverse)
 ```
 
-# Welcome to Anthropology 4320: Human Evolution schedule! 
+# Welcome to Anthropology 4320: Human Evolution Schedule! 
 
 Dates: 05/26-06/26
 
-#add calendar?
+Click on a date below to jump to that day!
+__________________________________________________________________________________
+
+
+[Tuesday, May 26 (day 1)]
+
+[Wednesday, May 27 - Decolonizing Human Evolution (day 2)]
+
+[Thursday, May 28 - Evolutionary theory (day 3)]
+
+[Monday, June 1 - Primates (day 4)]
+
+[Tuesday, June 2 -  Bipedalism (day 5)]
+
+[Wednesday, June 3 - The first hominins (day 6)]
+
+[Thursday, June 4 - Early hominin behavior  (day 7)]
+
+[Monday, June  8 - Ardipithecus (day 8)]
+
+[Tuesday, June 9 - Australopithecus! (day 9)]
+
+[Wednesday, June 10 -  Australopithecus continued (day 10)]
+
+[Thursday, June 11 - work catchup (day 11)]
+
+[Monday, June 15 - Early Homo (day 12)]
+
+[Tuesday, June 16 - Homo erectus (day 13)]
+
+[Wednesday, June 17 -  Middle Pleistocene (day 14)]
+
+[Thursday, June 18 - The First *Homo sapiens* (day 15)]
+
+[Monday, June 22  Neandertals - (day 16)]
+
+[Tuesday, June 23  - New species, new ideas (day 17)]
+
+[Wednesday, June 24 - Modern human origins (day 18)]
+
+[Thursday, June 25 - Future (day 19)]
+
+
 
 <br />
 <br />
@@ -330,7 +372,7 @@ look at one of the articles over the past 2 days and notice what they are talkin
 <br />
 <br />
 
-# Thursday, June 4 - Early hominin behavior  (day 7) 
+# Thursday, June 4 - Early hominin behavior  (day 7)
 
 Taking a break from reading (yay!) we are going to watch some lectures from leaders in the field. The first, by Carol Ward, talks about early hominin body form. The second looks at the role scavenging and hunting played in human history. And the third asks about how aggression and warfare may have been important pressures in human origins. 
 
@@ -743,7 +785,7 @@ Our department teaches a whole class on Neandertals so it is of course hard to c
 <br />
 <br />
 
-# Tuesday, June 23  - New speices, new ideas (day 17) 
+# Tuesday, June 23  - New species, new ideas (day 17) 
 
 In the last few years our knowledge of the fossil record of human evolution has greatly expanded. These 2 articles talk about newly proposed species. Read them carefully and think about how they are both changing the landscape of human origins
 
