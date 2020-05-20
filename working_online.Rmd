@@ -1,0 +1,38 @@
+---
+title: "working online"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout:
+    
+    latex_engine: xelatex
+  tufte::tufte_book:
+    
+    latex_engine: xelatex
+---
+
+# Working online
+
+When i first developed this class it was going to be Face-to-Face. Since we had to pivot online in the middle of the Spring I did not have as much time as I would have liked to get this class working. 
+
+# How to 'do' this class
+
+As some of you know, my main theme can be summerized as I want class to be a "busy-work free" zone. I wrote projects and picked readings that I think follow this rubric but i am happy to have your insight here. 
+
+The first day of class is just getting us all setup.
+
+You can see the calendar here. One thing a lot of you asked for was a detailed breakdown of when things should be done by. So that is why they are listed by day. But you don't have to follow it this way. You could, for instance, do all the work for the week on a Monday. It is totally up to you!
+
+The same is true of due dates. I put them there to help you navigate this weird sitation. But you don't have to stick to thoses dates.
+
+# How to learn online
+
+It is realy hard to keep up with online classes if you haven't done them before. My advice is to pick a time during the day when you think you can devote time/energy to it. For example, i tend to check emails etc from 5:30 am- 7:00 am when my family is still sleeping and i can get some quiet time (don't think i expect you to be up then!). 
+
+
+# class projects
+
+All class projects are listed here and also on the  main landing page for the class. With the exception of the online game (which is a group project) you can do these at anytime you want. 
+
+# communicaiotn
+
+I am using Slack since i think it is a bit nicer/easier than email and it lets us chat as a group without having AsULearn etc keep track of how much time you are devoting to the class. YOu cna send me a messsage there at any time. If you would rather email me that is fine too but note that i try to avoid email during the day since it is a major time suck and most of my emails are not very useful!
