@@ -42,7 +42,6 @@ Hi! This is the draft version of our course website. Feel free to look around. M
 
 [The class projects](https://marckissel.github.io/Anthro_4320/projects.html)
 
-[Assessment](https://marckissel.github.io/Anthro_4320/assessment.html)
 
 [My personal website](https://marckissel.netlify.com/)
 
